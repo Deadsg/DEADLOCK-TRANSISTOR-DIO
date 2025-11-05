@@ -1,3 +1,7 @@
+[submodule "SolanaWalletAdapter-zos"]
+	path = SolanaWalletAdapter-zos
+	url = https://github.com/meta-introspector/SolanaWalletAdapter-zos
+	branch = no-template
 [submodule "DEADLOCK-TRANSISTOR-DIO"]
-	path = DEADLOCK-TRANSISTOR-DIO
+	path = DEADLOCK-TRANSISTOR-DIO-SRC
 	url = https://github.com/Deadsg/DEADLOCK-TRANSISTOR-DIO
